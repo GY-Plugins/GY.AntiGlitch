@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "GY.AntiGlitch", "GY.AntiGlitch\GY.AntiGlitch.fsproj", "{A3163441-39BC-4CDE-926A-C05B4B886C9F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3163441-39BC-4CDE-926A-C05B4B886C9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3163441-39BC-4CDE-926A-C05B4B886C9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3163441-39BC-4CDE-926A-C05B4B886C9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3163441-39BC-4CDE-926A-C05B4B886C9F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
